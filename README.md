@@ -1,10 +1,10 @@
 # AED-TP05-Funciones
 
-**Pre Condición**
-*GetNumeroPositivo() : (VACIO) -> R+*
+**Pre Condición**  
+*GetNumeroPositivo() : (VACIO) -> R+*  
 *GetPerimetro(): R+ * R+ -> R+*
 
-**Pos Condición**
+**Pos Condición**  
 *Mostrar perimetro R+*
 
 
